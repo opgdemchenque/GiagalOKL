@@ -1,7 +1,6 @@
 id: manageengine-adselfservice
 
 info:
-  name: ZOHO ManageEngine ADSelfService Plus
   author: dhiyaneshDK
   severity: info
   reference:
@@ -18,7 +17,5 @@ requests:
       - type: word
         words:
           - '<title>ADSelfService Plus</title>'
-
-      - type: status
         status:
           - 200
